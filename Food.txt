@@ -1,0 +1,8 @@
+The Classes of food that we have are:
+1. Carbonhydrates
+2. Protein
+3. Fat and Oil
+4. Mineral
+5. Vitamins
+6. Water
+There is a pattern of consuming these food in order to maintain what is called a balanced diet
